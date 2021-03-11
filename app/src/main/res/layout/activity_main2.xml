@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/myLayout"
+
+
+        tools:context="com.example.zubayer.weatherapi.MainActivity2">
+
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:elevation="500dp"
+            app:cardCornerRadius="15dp"
+            android:layout_margin="10dp"
+            app:cardBackgroundColor="@android:color/transparent"
+            >
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Time"
+                    android:text="TIME"
+                    android:textSize="25dp"
+                    android:paddingBottom="5dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Day"
+                    android:hint="Day"
+                    android:paddingLeft="3dp"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Date"
+                    android:text="DATE"
+                    android:paddingLeft="3dp"
+                    />
+
+                />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:layout_gravity="right"
+                android:layout_marginRight="5dp"
+
+                >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/tmpText"
+                        android:hint="DayTemp"
+                        android:textSize="20dp"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/location"
+                        android:hint="Location"
+
+                        />
+
+
+                </LinearLayout>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/icon"
+
+
+                    android:src="@mipmap/ic_launcher"/>
+
+
+
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/hourtmp"
+            android:text="Hourly Temp"
+            android:textSize="25sp"
+            android:layout_gravity="right"/>
+
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/myRecycler"
+
+
+            >
+
+        </android.support.v7.widget.RecyclerView>
+
+
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:elevation="5000dp"
+            app:cardCornerRadius="15dp"
+            android:layout_margin="10dp"
+            android:layout_marginTop="40sp"
+
+            app:cardBackgroundColor="@android:color/transparent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="10sp"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Humidity"
+                    android:hint="Humidity"
+                    android:textSize="20sp"
+                    android:paddingBottom="15dp"
+                    android:layout_marginLeft="10dp"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Cloud"
+                    android:hint="cloud"
+                    android:textSize="20dp"
+                    android:paddingBottom="15dp"
+                    android:layout_marginLeft="10dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Pressure"
+                    android:hint="Pressure"
+                    android:textSize="20dp"
+                    android:paddingBottom="15dp"
+                    android:layout_marginLeft="10dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Sunrise"
+                    android:hint="Sunrise"
+                    android:textSize="20dp"
+                    android:paddingBottom="15dp"
+                    android:layout_marginLeft="10dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Sunset"
+                    android:hint="sunset"
+                    android:textSize="20dp"
+                    android:paddingBottom="15dp"
+                    android:layout_marginLeft="10dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Maxtemp"
+                    android:hint="Maxtemp"
+                    android:textSize="20dp"
+                    android:paddingBottom="15dp"
+                    android:layout_marginLeft="10dp"/>
+
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Dewpoint"
+                    android:hint="Dewpoint"
+                    android:textSize="20dp"
+                    android:paddingBottom="15dp"
+                    android:layout_marginLeft="10dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Description"
+                    android:hint="Description"
+                    android:textSize="20dp"
+                    android:paddingBottom="15dp"
+                    android:layout_marginLeft="10dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="text"
+                    android:textSize="20sp"
+                    android:id="@+id/textview"/>
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/Rain2"
+
+                    android:textSize="15dp"
+                    android:paddingBottom="15dp"
+                    android:layout_marginLeft="10dp"/>
+
+
+
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/NxtBtn"
+            android:text="Click for 14days"
+            android:textColor="@color/cardview_dark_background"
+            android:layout_margin="14dp"
+            android:layout_gravity="center"
+            android:textSize="20sp"/>
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

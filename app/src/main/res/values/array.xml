@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <array name="January">
+        <item>"0"</item>
+        <item>"26°C/16°C"</item>
+        <item>"24°C/17°C"</item>
+        <item>"25°C/14°C"</item>
+        <item>"23°C/10°C"</item>
+        <item>"22°C/11°C"</item>
+        <item>"21°C/10°C"</item>
+        <item>"23°C/12°C"</item>
+        <item>"15°C/8°C"</item>
+        <item>"23°C/9°C"</item>
+        <item>"24°C/9°C"</item>
+        <item>"18°C/8°C"</item>
+        <item>"16°C/9°C"</item>
+        <item>"19°C/11°C"</item>
+        <item>"18°C/10°C"</item>
+        <item>"19°C/12°C"</item>
+        <item>"15°C/10°C"</item>
+        <item>"24°C/11°C"</item>
+        <item>"24°C/12°C"</item>
+        <item>"21°C/11°C"</item>
+        <item>"25°C/11°C"</item>
+        <item>"23°C/12°C"</item>
+        <item>"25°C/13°C"</item>
+        <item>"26°C/14°C"</item>
+        <item>"26°C/13°C"</item>
+        <item>"27°C/14°C"</item>
+        <item>"26°C/11°C"</item>
+        <item>"25°C/10°C"</item>
+        <item>"23°C/9°C"</item>
+        <item>"24°C/9°C"</item>
+        <item>"24°C/10°C"</item>
+        <item>"25°C/10°C"</item>
+
+
+
+    </array>
+
+
+
+    <array name="February">
+        <item>"0"</item>
+        <item>"25°C/14°C"</item>
+        <item>"23°C/15°C"</item>
+        <item>"25°C/13°C"</item>
+        <item>"27°C/16°C"</item>
+        <item>"28°C/17°C"</item>
+        <item>"26°C/16°C"</item>
+        <item>"27°C/17°C"</item>
+        <item>"28°C/15°C"</item>
+        <item>"28°C/14°C"</item>
+        <item>"27°C/17°C"</item>
+        <item>"26°C/16°C"</item>
+        <item>"29°C/15°C"</item>
+        <item>"30°C/16°C"</item>
+        <item>"28°C/16°C"</item>
+        <item>"28°C/16°C"</item>
+        <item>"29°C/15°C"</item>
+        <item>"27°C/13°C"</item>
+        <item>"29°C/15°C"</item>
+        <item>"30°C/17°C"</item>
+        <item>"29°C/18°C"</item>
+        <item>"28°C/17°C"</item>
+        <item>"31°C/19°C"</item>
+        <item>"31°C/18°C"</item>
+        <item>"30°C/17°C"</item>
+        <item>"31°C/18°C"</item>
+        <item>"29°C/17°C"</item>
+        <item>"30°C/17°C"</item>
+        <item>"32°C/18°C"</item>
+
+
+
+    </array>
+
+    <array name="March">
+        <item>"0"</item>
+        <item>"30°C/19°C"</item>
+        <item>"31°C/18°C"</item>
+        <item>"32°C/20°C"</item>
+        <item>"33°C/20°C"</item>
+        <item>"31°C/19°C"</item>
+        <item>"32°C/20°C"</item>
+        <item>"31°C/20°C"</item>
+        <item>"33°C/22°C"</item>
+        <item>"32°C/21°C"</item>
+        <item>"31°C/20°C"</item>
+        <item>"33°C/24°C"</item>
+        <item>"32°C/23°C"</item>
+        <item>"30°C/18°C"</item>
+        <item>"31°C/22°C"</item>
+        <item>"34°C/24°C"</item>
+        <item>"30°C/18°C"</item>
+        <item>"32°C/22°C"</item>
+        <item>"33°C/22°C"</item>
+        <item>"33°C/21°C"</item>
+        <item>"32°C/19°C"</item>
+        <item>"31°C/20°C"</item>
+        <item>"33°C/22°C"</item>
+        <item>"32°C/21°C"</item>
+        <item>"32°C/22°C"</item>
+        <item>"34°C/21°C"</item>
+        <item>"32°C/20°C"</item>
+        <item>"31°C/22°C"</item>
+        <item>"30°C/19°C"</item>
+        <item>"31°C/20°C"</item>
+        <item>"32°C/19°C"</item>
+        <item>"29°C/18°C"</item>
+
+
+    </array>
+
+    <array name="April">
+        <item>"0"</item>
+        <item>"33°C/23°C"</item>
+        <item>"30°C/20°C"</item>
+        <item>"32°C/21°C"</item>
+        <item>"31°C/22°C"</item>
+        <item>"29°C/19°C"</item>
+        <item>"30°C/20°C"</item>
+        <item>"32°C/21°C"</item>
+        <item>"31°C/22°C"</item>
+        <item>"33°C/23°C"</item>
+        <item>"33°C/22°C"</item>
+        <item>"34°C/22°C"</item>
+        <item>"34°C/22°C"</item>
+        <item>"35°C/24°C"</item>
+        <item>"35°C/23°C"</item>
+        <item>"34°C/26°C"</item>
+        <item>"33°C/24°C"</item>
+        <item>"28°C/22°C"</item>
+        <item>"29°C/20°C"</item>
+        <item>"32°C/21°C"</item>
+        <item>"30°C/20°C"</item>
+        <item>"31°C/20°C"</item>
+        <item>"32°C/22°C"</item>
+        <item>"32°C/23°C"</item>
+        <item>"35°C/25°C"</item>
+        <item>"36°C/26°C"</item>
+        <item>"34°C/25°C"</item>
+        <item>"32°C/21°C"</item>
+        <item>"34°C/22°C"</item>
+        <item>"35°C/23°C"</item>
+        <item>"30°C/21°C"</item>
+
+
+
+    </array>
+
+    <array name="May">
+        <item>"0"</item>
+        <item>"31°C/21°C"</item>
+        <item>"32°C/21°C"</item>
+        <item>"33°C/22°C"</item>
+        <item>"35°C/23°C"</item>
+        <item>"33°C/24°C"</item>
+        <item>"32°C/22°C"</item>
+        <item>"30°C/20°C"</item>
+        <item>"29°C/25°C"</item>
+        <item>"32°C/23°C"</item>
+        <item>"30°C/20°C"</item>
+        <item>"31°C/21°C"</item>
+        <item>"30°C/20°C"</item>
+        <item>"32°C/21°C"</item>
+        <item>"34°C/22°C"</item>
+        <item>"31°C/21°C"</item>
+        <item>"27°C/20°C"</item>
+        <item>"29°C/21°C"</item>
+        <item>"28°C/23°C"</item>
+        <item>"26°C/23°C"</item>
+        <item>"30°C/22°C"</item>
+        <item>"26°C/20°C"</item>
+        <item>"31°C/25°C"</item>
+        <item>"27°C/23°C"</item>
+        <item>"34°C/27°C"</item>
+        <item>"35°C/26°C"</item>
+        <item>"34°C/25°C"</item>
+        <item>"36°C/27°C"</item>
+        <item>"35°C/27°C"</item>
+        <item>"30°C/22°C"</item>
+        <item>"34°C/26°C"</item>
+        <item>"27°C/22°C"</item>
+
+
+    </array>
+
+    <array name="June">
+        <item>"0"</item>
+        <item>"30°C/24°C"</item>
+        <item>"32°C/25°C"</item>
+        <item>"33°C/25°C"</item>
+        <item>"34°C/25°C"</item>
+        <item>"34°C/26°C"</item>
+        <item>"33°C/26°C"</item>
+        <item>"32°C/25°C"</item>
+        <item>"34°C/27°C"</item>
+        <item>"34°C/23°C"</item>
+        <item>"33°C/25°C"</item>
+        <item>"31°C/24°C"</item>
+        <item>"28°C/24°C"</item>
+        <item>"30°C/25°C"</item>
+        <item>"31°C/26°C"</item>
+        <item>"30°C/27°C"</item>
+        <item>"29°C/26°C"</item>
+        <item>"31°C/26°C"</item>
+        <item>"33°C/27°C"</item>
+        <item>"32°C/26°C"</item>
+        <item>"33°C/26°C"</item>
+
+        <item>"31°C/25°C"</item>
+        <item>"30°C/26°C"</item>
+        <item>"33°C/26°C"</item>
+        <item>"34°C/28°C"</item>
+        <item>"30°C/26°C"</item>
+        <item>"32°C/26°C"</item>
+        <item>"33°C/27°C"</item>
+        <item>"30°C/26°C"</item>
+        <item>"32°C/26°C"</item>
+        <item>"31°C/25°C"</item>
+
+
+
+    </array>
+
+    <array name="July">
+        <item>"0"</item>
+        <item>"32°C/27°C"</item>
+        <item>"31°C/27°C"</item>
+        <item>"30°C/26°C"</item>
+        <item>"29°C/25°C"</item>
+        <item>"32°C/27°C"</item>
+        <item>"33°C/27°C"</item>
+        <item>"33°C/27°C"</item>
+        <item>"32°C/26°C"</item>
+        <item>"31°C/26°C"</item>
+        <item>"32°C/25°C"</item>
+        <item>"34°C/25°C"</item>
+        <item>"34°C/26°C"</item>
+        <item>"35°C/27°C"</item>
+        <item>"34°C/27°C"</item>
+        <item>"31°C/25°C"</item>
+        <item>"35°C/26°C"</item>
+        <item>"36°C/28°C"</item>
+        <item>"35°C/27°C"</item>
+        <item>"34°C/26°C"</item>
+        <item>"33°C/25°C"</item>
+
+        <item>"30°C/26°C"</item>
+        <item>"31°C/27°C"</item>
+        <item>"28°C/25°C"</item>
+        <item>"29°C/25°C"</item>
+        <item>"30°C/26°C"</item>
+        <item>"31°C/27°C"</item>
+        <item>"30°C/26°C"</item>
+        <item>"30°C/26°C"</item>
+        <item>"33°C/27°C"</item>
+        <item>"31°C/27°C"</item>
+        <item>"32°C/26°C"</item>
+
+    </array>
+
+    <array name="August">
+        <item>"0"</item>
+        <item>"31°C/26°C"</item>
+        <item>"32°C/27°C"</item>
+        <item>"34°C/27°C"</item>
+        <item>"33°C/26°C"</item>
+        <item>"32°C/26°C"</item>
+        <item>"34°C/28°C"</item>
+        <item>"35°C/28°C"</item>
+        <item>"33°C/25°C"</item>
+        <item>"34°C/27°C"</item>
+        <item>"33°C/26°C"</item>
+        <item>"35°C/27°C"</item>
+        <item>"32°C/25°C"</item>
+        <item>"31°C/25°C"</item>
+        <item>"30°C/24°C"</item>
+        <item>"32°C/26°C"</item>
+        <item>"33°C/26°C"</item>
+        <item>"33°C/27°C"</item>
+        <item>"31°C/25°C"</item>
+        <item>"34°C/27°C"</item>
+        <item>"33°C/26°C"</item>
+
+        <item>"32°C/26°C"</item>
+        <item>"33°C/27°C"</item>
+        <item>"33°C/27°C"</item>
+        <item>"32°C/26°C"</item>
+        <item>"34°C/28°C"</item>
+        <item>"32°C/26°C"</item>
+        <item>"33°C/27°C"</item>
+        <item>"33°C/28°C"</item>
+        <item>"31°C/27°C"</item>
+        <item>"32°C/26°C"</item>
+
+    </array>
+
+    \
+    <array name="September">
+        <item>"0"</item>
+        <item>"32°C/26°C"</item>
+        <item>"31°C/25°C"</item>
+        <item>"33°C/27°C"</item>
+        <item>"32°C/26°C"</item>
+        <item>"34°C/27°C"</item>
+        <item>"35°C/27°C"</item>
+        <item>"33°C/26°C"</item>
+        <item>"34°C/25°C"</item>
+        <item>"30°C/25°C"</item>
+        <item>"29°C/24°C"</item>
+        <item>"31°C/25°C"</item>
+        <item>"26°C/23°C"</item>
+        <item>"31°C/25°C"</item>
+
+        <item>"31°C/26°C"</item>
+        <item>"33°C/26°C"</item>
+        <item>"35°C/28°C"</item>
+        <item>"32°C/26°C"</item>
+        <item>"34°C/26°C"</item>
+        <item>"31°C/25°C"</item>
+
+        <item>"31°C/23°C"</item>
+        <item>"32°C/25°C"</item>
+        <item>"35°C/27°C"</item>
+        <item>"35°C/28°C"</item>
+        <item>"36°C/28°C"</item>
+        <item>"34°C/26°C"</item>
+        <item>"34°C/27°C"</item>
+        <item>"34°C/27°C"</item>
+        <item>"32°C/25°C"</item>
+        <item>"34°C/26°C"</item>
+        <item>"31°C/25°C"</item>
+
+
+    </array>
+
+    <array name="October">
+        <item>"0"</item>
+
+        <item>"31°C/26°C"</item>
+        <item>"32°C/26°C"</item>
+        <item>"34°C/27°C"</item>
+        <item>"35°C/26°C"</item>
+        <item>"32°C/25°C"</item>
+        <item>"31°C/25°C"</item>
+        <item>"30°C/25°C"</item>
+        <item>"32°C/26°C"</item>
+        <item>"31°C/24°C"</item>
+        <item>"32°C/26°C"</item>
+        <item>"33°C/25°C"</item>
+        <item>"34°C/27°C"</item>
+        <item>"33°C/26°C"</item>
+        <item>"32°C/25°C"</item>
+        <item>"31°C/24°C"</item>
+        <item>"34°C/25°C"</item>
+        <item>"32°C/22°C"</item>
+        <item>"30°C/21°C"</item>
+        <item>"28°C/20°C"</item>
+        <item>"27°C/20°C"</item>
+
+        <item>"26°C/19°C"</item>
+        <item>"25°C/21°C"</item>
+        <item>"27°C/20°C"</item>
+        <item>"29°C/20°C"</item>
+        <item>"30°C/22°C"</item>
+        <item>"32°C/24°C"</item>
+        <item>"31°C/20°C"</item>
+        <item>"29°C/19°C"</item>
+        <item>"28°C/20°C"</item>
+        <item>"27°C/20°C"</item>
+        <item>"29°C/19°C"</item>
+
+
+    </array>
+
+    <array name="November">
+        <item>"0"</item>
+        <item>"30°C/20°C"</item>
+        <item>"31°C/21°C"</item>
+        <item>"32°C/20°C"</item>
+        <item>"30°C/19°C"</item>
+        <item>"31°C/20°C"</item>
+        <item>"30°C/21°C"</item>
+        <item>"30°C/20°C"</item>
+        <item>"31°C/21°C"</item>
+        <item>"26°C/20°C"</item>
+        <item>"30°C/19°C"</item>
+        <item>"31°C/19°C"</item>
+        <item>"31°C/19°C"</item>
+        <item>"27°C/18°C"</item>
+        <item>"25°C/18°C"</item>
+        <item>"30°C/19°C"</item>
+        <item>"26°C/15°C"</item>
+        <item>"29°C/16°C"</item>
+        <item>"28°C/16°C"</item>
+        <item>"30°C/17°C"</item>
+        <item>"29°C/17°C"</item>
+        <item>"29°C/16°C"</item>
+        <item>"28°C/16°C"</item>
+        <item>"27°C/16°C"</item>
+        <item>"28°C/17°C"</item>
+        <item>"29°C/16°C"</item>
+        <item>"27°C/15°C"</item>
+        <item>"26°C/15°C"</item>
+        <item>"28°C/16°C"</item>
+        <item>"27°C/16°C"</item>
+        <item>"28°C/18°C"</item>
+
+
+
+
+    </array>
+
+    <array name="December">
+        <item>"0"</item>
+        <item>"28°C/17°C"</item>
+        <item>"29°C/17°C"</item>
+        <item>"29°C/18°C"</item>
+        <item>"28°C/17°C"</item>
+        <item>"28°C/16°C"</item>
+        <item>"30°C/18°C"</item>
+        <item>"29°C/15°C"</item>
+        <item>"26°C/14°C"</item>
+        <item>"24°C/11°C"</item>
+        <item>"22°C/15°C"</item>
+        <item>"24°C/19°C"</item>
+        <item>"27°C/20°C"</item>
+        <item>"28°C/17°C"</item>
+        <item>"27°C/17°C"</item>
+        <item>"26°C/16°C"</item>
+        <item>"25°C/14°C"</item>
+        <item>"24°C/14°C"</item>
+        <item>"24°C/13°C"</item>
+        <item>"22°C/16°C"</item>
+        <item>"25°C/13°C"</item>
+        <item>"26°C/15°C"</item>
+        <item>"27°C/16°C"</item>
+        <item>"26°C/14°C"</item>
+        <item>"25°C/13°C"</item>
+        <item>"27°C/16°C"</item>
+        <item>"25°C/14°C"</item>
+        <item>"26°C/14°C"</item>
+        <item>"27°C/15°C"</item>
+        <item>"29°C/16°C"</item>
+        <item>"28°C/16°C"</item>
+        <item>"26°C/15°C"</item>
+
+
+    </array>
+</resources>
